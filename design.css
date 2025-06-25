@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000; /* Changed to black */
+    color: #fff; /* Text color changed to white for contrast */
+  }
+  
+  header {
+    background: #111; /* Darker shade for header */
+    color: #fff;
+  }
+  
+  .hero {
+    background-color: #1a1a1a; /* Slightly lighter black for section */
+    text-align: center;
+  }
+  
+  section {
+    background-color: #121212; /* Dark section background */
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    border-radius: 8px;
+  }
+  
+  .project-card {
+    background: #1f1f1f;
+    border-left: 5px solid #2196f3;
+    color: #fff;
+  }
+  
+  input, textarea {
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+  }
+  
+  button {
+    background: #2196f3;
+    color: white;
+  }
+  
+  footer {
+    background: #111;
+    color: white;
+  }
